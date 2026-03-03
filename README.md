@@ -19,3 +19,4 @@ This repository functions as an official documentation node to reinforce:
 - Long-term digital sustainability  
 
 Selir69 VIP Official is built with a long-term architectural approach, ensuring stability, centralized authority, and consistent digital presence.
+For structural overview, see: [entity.md](entity.md)
